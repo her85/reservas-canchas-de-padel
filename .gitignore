@@ -31,7 +31,7 @@ Desktop.ini
 # Archivos de scripts de carga de datos
 crearAdmin.js
 crearCanchas.js
-migrarUsuariosResrvas.js
+migrarUsuariosReservas.js
 seedAdmin.js
 
 # Documentos personales o de tareas
